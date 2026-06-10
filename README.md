@@ -5,6 +5,6 @@
 
 -git clone <repository-url>
 
-##this command is used to copy the file from remote repository to local lapi.
+this command is used to copy the file from remote repository to local lapi.
 
 -
